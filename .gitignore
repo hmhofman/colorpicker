@@ -2,3 +2,6 @@
 /nbproject/
 .svn
 .idea/*
+/debug/
+/node_modules/
+/bower_components/
